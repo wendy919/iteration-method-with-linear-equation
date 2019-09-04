@@ -1,0 +1,18 @@
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\bin\Debug\iteration method with linear equations.exe
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\bin\Debug\iteration method with linear equations.pdb
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration_method_with_linear_equations.Form1.resources
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration_method_with_linear_equations.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.exe
+C:\Users\Lenovo\Desktop\大三上\数值计算\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.pdb
+C:\Users\Lenovo\Desktop\大三上\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.exe
+C:\Users\Lenovo\Desktop\大三上\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.pdb
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.exe
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.pdb
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\bin\Debug\iteration method with linear equations.exe
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\bin\Debug\iteration method with linear equations.pdb
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.csprojResolveAssemblyReference.cache
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration_method_with_linear_equations.Form1.resources
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration_method_with_linear_equations.Properties.Resources.resources
+G:\CS\大三上学期\数值计算及计算机实现\数值计算\c#\iteration method with linear equations\iteration method with linear equations\obj\x86\Debug\iteration method with linear equations.csproj.GenerateResource.Cache
